@@ -21,7 +21,9 @@ Creates a second, independent tidy data set with the average of each variable fo
 Step by step to run this project
 ---------------------------------
 
-1) Open the R script `run_analysis.r` using a text editor.
+1) Open and copy the R script `run_analysis.r` using R Studio.
 2) Change your parameter of the `setwd` function to the working directory or folder where you saved the zip file.
-3) Run the script `run_analysis.r`. It calls the R Markdown file, `run_analysis.Rmd`, which contains the bulk of the code.
+3) Run the script `run_analysis.r` and check the tidy data set created in the end of the script.
+
+Obs: Don´t know how to create the html and R Markdown :(
 
